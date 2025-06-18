@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Thembiso Masuvhelele
 
-<!--
-**Thembiso-dev/Thembiso-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Student  
+💻 Passionate Backend Developer  
+📍 Based in Johannesburg, South Africa
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏽‍💻 About Me
+I'm a backend-focused developer currently studying Computer Science and actively building real-world backend projects using **Node.js**, **Express**, and **MongoDB**.
+
+I enjoy solving problems, designing APIs, and creating scalable systems that work behind the scenes.One meaningful project at a time.
+
+---
+
+### 🧰 Tech Stack
+- Node.js | Express.js | MongoDB
+- JavaScript | Git & GitHub | REST APIs
+
+---
+
+### 📫 Let's Connect
+- GitHub: (https://github.com/thembisodev)
+- LinkedIn: (https://linkedin.com/in/thembiso)
+- Email:(thembisofaith858@gmail.com)
