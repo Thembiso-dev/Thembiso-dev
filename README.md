@@ -21,5 +21,5 @@ I enjoy solving problems, designing APIs, and creating scalable systems that wor
 
 ### 📫 Let's Connect
 - GitHub: (https://github.com/thembiso-dev)
-- LinkedIn: ( linkedin.com/in/thembiso-masuvhelele-78abb9289)
+- LinkedIn: ( https://linkedin.com/in/thembiso-masuvhelele-78abb9289)
 - Email:(thembisofaith858@gmail.com)
